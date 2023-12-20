@@ -9,4 +9,4 @@ The website uses Python and Flask for the back end. It uses Flask to launch HTML
 The leaderboards are set up in an AWS database and access by pull requests in the Python code.
 The domain was purchased and is owned by me. I use DigitalOcean connected to my GitHub to launch the code from my repository and configure DigitalOcean by using a DockerFile with the needed imports. I use the python code to launch a locally-hosted website to make developer changes and can test anything I need to before launching it live to the web.
 
-Please reach out to jneale118@gmail.com for further questions. note that not all questions may be answered due to security reasons
+Please reach out to statpadwebsite@gmail.com for further questions.
