@@ -1,5 +1,6 @@
 # Stat-Pad
 https://stat-pad.com
+
 This is the public view of my personal NBA website stat-pad.com, which is closed source for security reasons.
 
 Background:
